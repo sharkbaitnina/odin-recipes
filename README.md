@@ -1,2 +1,2 @@
 # odin-recipes
-Recipes
+Simple Static Site of Simple Recipes
